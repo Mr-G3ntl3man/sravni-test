@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sravni-test/static/css/main.e6c13ad2.css",
+    "main.js": "/sravni-test/static/js/main.0eb5a124.js",
+    "static/js/787.9a1a20ac.chunk.js": "/sravni-test/static/js/787.9a1a20ac.chunk.js",
+    "index.html": "/sravni-test/index.html",
+    "main.e6c13ad2.css.map": "/sravni-test/static/css/main.e6c13ad2.css.map",
+    "main.0eb5a124.js.map": "/sravni-test/static/js/main.0eb5a124.js.map",
+    "787.9a1a20ac.chunk.js.map": "/sravni-test/static/js/787.9a1a20ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0eb5a124.js"
+  ]
+}
